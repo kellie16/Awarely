@@ -11,7 +11,7 @@ Awarely is a modern, mobile-first web application designed to empower travelers 
 - **🤖 AI Safety Summaries**: Leveraging Google Gemini to provide instant, context-aware safety summaries and travel advice for your current location.
 - **🗣️ Community Feedback**: a "Waze for Safety" approach where users can report incidents and rate the safety of areas, contributing to a shared safety database.
 - **👤 User Dashboard**: Manage your profile, view your trusted contacts, and review your past activity.
-- **🤝 Trusted Contacts**: (Coming Soon) Quickly notify friends and family if you feel unsafe.
+- **🤝 Trusted Contacts**: Quickly notify friends and family if you feel unsafe.
 - **🔒 Secure Authentication**: Robust login and signup flows powered by Firebase Auth.
 
 ## 🛠️ Tech Stack
